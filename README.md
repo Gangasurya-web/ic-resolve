@@ -2,6 +2,8 @@
 
 A Workday Extend app that takes an intercompany balance break from detection to an approved, audited fix. I built it as a portfolio project and deployed and tested it end to end on a Workday Extend development tenant.
 
+▶️ **[Watch the 1-minute launch video](docs/linkedin/IC_Resolve_launch.mp4)**
+
 ![Break dashboard](docs/screenshots/01_dashboard.jpg)
 
 ## Why
